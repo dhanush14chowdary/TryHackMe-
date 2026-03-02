@@ -1,0 +1,127 @@
+A:) Linux(Foundations):
+
+Level 1: Core Reinforcement
+
+Linux Fundamentals Part 1
+https://tryhackme.com/room/linuxfundamentalspart1
+
+Linux Fundamentals Part 2
+https://tryhackme.com/room/linuxfundamentalspart2
+
+Linux Fundamentals Part 3
+https://tryhackme.com/room/linuxfundamentalspart3
+
+Linux Shells
+https://tryhackme.com/room/linuxshells
+
+Command Line
+https://tryhackme.com/room/commandline
+
+Level 2: Real Usage & File Mastery
+
+Bash Scripting
+https://tryhackme.com/room/bashscripting
+
+Regular Expressions
+https://tryhackme.com/room/regex
+
+Linux Privilege Escalation Basics
+https://tryhackme.com/room/linprivesc
+
+Cron Jobs
+https://tryhackme.com/room/cronjobs
+
+Processes and Services
+https://tryhackme.com/room/processesandservices
+
+Level 3 – Security-Oriented Linux (Critical for Jobs)
+
+Linux PrivEsc (Advanced)
+https://tryhackme.com/room/linuxprivesc
+
+Sudo Security Bypass
+https://tryhackme.com/room/sudovulnerabilities
+
+Linux Capabilities
+https://tryhackme.com/room/linuxcapabilities
+
+GTFOBins Practice
+https://tryhackme.com/room/gtfobins
+
+Common Linux Vulnerabilities
+https://tryhackme.com/room/commonlinuxvulnerabilities
+
+Level 4 – Practical CTF-Style Linux Practice
+
+Now you apply everything:
+
+Basic Pentesting
+https://tryhackme.com/room/basicpentestingjt
+
+RootMe
+https://tryhackme.com/room/rootme
+
+Vulnversity
+https://tryhackme.com/room/vulnversity
+
+Kenobi
+https://tryhackme.com/room/kenobi
+
+Blue (for mixed exposure)
+https://tryhackme.com/room/blue
+
+
+Intermediate Foundations (System + Blue Team Focus)
+
+Linux Modules
+https://tryhackme.com/room/linuxmodules
+
+Linux Logs
+https://tryhackme.com/room/linuxlogs
+
+Systemd
+https://tryhackme.com/room/systemd
+
+Linux File System Analysis
+https://tryhackme.com/room/linuxfilesystemanalysis
+
+Intro to Docker
+https://tryhackme.com/room/introtodocker
+
+OWASP Top 10 (Linux-hosted apps exposure)
+https://tryhackme.com/room/owasptop10
+
+
+Enumeration & Real-World Practice (Red Team Muscle)
+
+Linux Privilege Escalation Arena
+https://tryhackme.com/room/linuxprivescarena
+
+Mr Robot CTF
+https://tryhackme.com/room/mrrobot
+
+Overpass
+https://tryhackme.com/room/overpass
+
+Overpass 2 - Hacked
+https://tryhackme.com/room/overpass2hacked
+
+LazyAdmin
+https://tryhackme.com/room/lazyadmin
+
+Poster
+https://tryhackme.com/room/poster
+
+🔴 Blue Team Linux Depth (SOC-Relevant)
+
+Intro to SIEM
+https://tryhackme.com/room/introtosiem
+
+Splunk Basics
+https://tryhackme.com/room/splunk
+
+Threat Hunting: Linux
+https://tryhackme.com/room/linuxthreathunting
+
+Incident Response Process
+https://tryhackme.com/room/incidentresponseprocess
