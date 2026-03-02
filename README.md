@@ -1,0 +1,2 @@
+# TryHackMe-
+Learning stuff bro
