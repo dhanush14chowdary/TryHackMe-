@@ -4,15 +4,19 @@ Level 1: Core Reinforcement
 
 Linux Fundamentals Part 1
 https://tryhackme.com/room/linuxfundamentalspart1
+learnt - [echo, whoami, ls, cd, cat, pwd, find, wc, -r, grep, &, &&, >, >>]
 
 Linux Fundamentals Part 2
 https://tryhackme.com/room/linuxfundamentalspart2
+learnt - [ssh, man, touch, mkdir, cp, mv, rm, file, su,chmod, rwxrwxrwx = 777, rwxr-xr-x=755, rw-r--r--=644, rwx------=700]
 
 Linux Fundamentals Part 3
 https://tryhackme.com/room/linuxfundamentalspart3
+learnt - [nano, what's vim, wget, python3 -m  http.server i.e hosting a server, ps, ps aux, systemctl- Start Stop Enable Disable Status, crontab- my weakpoint, apt, dpkg, apt install, apt remove]
 
 Linux Shells
 https://tryhackme.com/room/linuxshells
+learnt - [
 
 Command Line
 https://tryhackme.com/room/commandline
