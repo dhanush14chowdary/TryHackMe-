@@ -28,6 +28,7 @@ https://tryhackme.com/room/bashscripting
 
 Regular Expressions
 https://tryhackme.com/room/regex
+[learnt - strings]
 
 Linux Privilege Escalation Basics
 https://tryhackme.com/room/linprivesc
