@@ -16,15 +16,17 @@ learnt - [nano, what's vim, wget, python3 -m  http.server i.e hosting a server, 
 
 Linux Shells
 https://tryhackme.com/room/linuxshells
-learnt - [
+learnt - [ similar to what fundamentals]
 
 Command Line
 https://tryhackme.com/room/commandline
+learnt - [ similar to what fundamentals]
 
 Level 2: Real Usage & File Mastery
 
 Bash Scripting
 https://tryhackme.com/room/bashscripting
+learnt - [variables, parameters, arrays, conditionals]
 
 Regular Expressions
 https://tryhackme.com/room/regex
@@ -35,6 +37,7 @@ https://tryhackme.com/room/linprivesc
 
 Cron Jobs
 https://tryhackme.com/room/cronjobs
+learnt - []
 
 Processes and Services
 https://tryhackme.com/room/processesandservices
